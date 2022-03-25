@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn1.vectorstock.com/i/1000x1000/43/95/media-developer-female-in-office-vector-30164395.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=1200x900&vertical=top" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nivedita</h1>
 <h3 align="center">I'm an Engineering sophomore, from NIT JAMSHEDPUR.</h3>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👨‍💻 I am quite intersted in Web Development. **[My Portfolio](https://nivedita021portfolio.netlify.app)**
+- 👨‍💻 I am quite interested in Web Development. **[My Portfolio](https://nivedita021portfolio.netlify.app)**
 
 - 📫 How to reach me **niveditabarn21@gmail.com**
 
@@ -16,7 +16,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
