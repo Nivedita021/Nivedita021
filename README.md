@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👨‍💻 I am quite interested in Web Development. **[My Portfolio](https://nivedita021portfolio.netlify.app)**
+- 👨‍💻 I am quite interested in Web Development. **[My Portfolio](https://niveditaportfolio021.netlify.app/)**
 
 - 📫 How to reach me **niveditabarn21@gmail.com**
 
