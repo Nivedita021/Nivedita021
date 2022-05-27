@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=1200x900&vertical=top" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nivedita</h1>
-<h3 align="center">I'm an Engineering sophomore, from NIT JAMSHEDPUR.</h3>
+<h3 align="center">I'm a pre-final year B.Tech student, from NIT JAMSHEDPUR.</h3>
 
 
 ## 🙋‍♂️ About Me
