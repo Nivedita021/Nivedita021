@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=1200x900&vertical=top" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nivedita</h1>
+<h1 align="center">Hi <img src="https://img.icons8.com/emoji/48/undefined/waving-hand-emoji.png" />, I'm Nivedita</h1>
 <h3 align="center">I'm a pre-final year B.Tech student, from NIT JAMSHEDPUR.</h3>
 
 
@@ -60,7 +60,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nivedita-chatterjee-bb8027215"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.linkedin.com/in/nivedita-chatterjee-bb8027215"><img src="https://img.icons8.com/fluent/48/000000/codeforces.png"/></a>
+<a href = "https://codeforces.com/profile/nivedita_021"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
+    <a href = "https://www.codechef.com/users/nivedita_2101"><img src="https://img.icons8.com/fluency/48/undefined/codechef.png"/></a>
+    <a href = "https://www.hackerrank.com/niveditabarn21"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+     <a href = ""><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+   <a href = ""><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
 </p>
 
 ## ❤ Views and Followers
