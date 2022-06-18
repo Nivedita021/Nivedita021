@@ -1,4 +1,4 @@
-<a href="#"><img width="auto" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" height="auto"/></a>
+<a href="#"><img width="auto" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://img.icons8.com/emoji/48/undefined/waving-hand-emoji.png" />, I'm Nivedita</h1>
 <h3 align="center">I'm a pre-final year B.Tech student, from NIT JAMSHEDPUR.</h3>
