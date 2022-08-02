@@ -4,7 +4,7 @@
 <h3 align="center">I'm a pre-final year B.Tech student, from NIT JAMSHEDPUR.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -67,7 +67,7 @@
    <a href = ""><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Nivedita021/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nivedita021">
 </a>
