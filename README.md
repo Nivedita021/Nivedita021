@@ -1,19 +1,33 @@
-<a href="#"><img width="auto" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" height="auto"/></a>
+## Views and Followers
+<a href="https://github.com/Nivedita021/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Nivedita021">
+</a>
+<a href="https://github.com/Nivedita021?tab=followers"><img src="https://img.shields.io/github/followers/Nivedita021?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<h1 align="center">Hi <img src="https://img.icons8.com/emoji/48/undefined/waving-hand-emoji.png" />, I'm Nivedita</h1>
-<h3 align="center">I'm a pre-final year B.Tech student, from NIT JAMSHEDPUR.</h3>
-
-
-## 🙋‍ About Me
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👨‍💻 I am quite interested in Web Development. **[My Portfolio](https://niveditaportfolio021.netlify.app/)**
-
-- 📫 How to reach me **niveditabarn21@gmail.com**
+<h1 align="center">Hello Everyone</h1>
+<h3 align="center">I'm a 3rd year B.Tech student, from NIT JAMSHEDPUR.</h3>
 
 
-## 🚀 Languages and Tools:
+##  About Me
+
+-  I have solved 1000+ questions based on Data Structures and Algorithms in various platforms like Leetcode, GeeksforGeeks, Codeforces, Codechef, HackerRank, etc.**
+
+-  I am enthusiastic about web development and I have created full stack MERN websites. 
+
+- My Email-ID : **niveditabarn21@gmail.com**
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/nivedita-chatterjee-bb8027215"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://codeforces.com/profile/nivedita_021"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
+    <a href = "https://www.codechef.com/users/nivedita_2101"><img src="https://img.icons8.com/fluency/48/undefined/codechef.png"/></a>
+    <a href = "https://www.hackerrank.com/niveditabarn21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="45" width="45"/></a>
+     <a href = ""><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+   <a href = ""><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
+</p>
+
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
@@ -39,7 +53,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/Nivedita021/github-readme-stats"><img alt=" Nivedita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nivedita021&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -53,24 +67,4 @@
 
 <a href="https://github.com/Nivedita021/github-readme-activity-graph"><img alt="Nivedita Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nivedita021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/nivedita-chatterjee-bb8027215"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://codeforces.com/profile/nivedita_021"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
-    <a href = "https://www.codechef.com/users/nivedita_2101"><img src="https://img.icons8.com/fluency/48/undefined/codechef.png"/></a>
-    <a href = "https://www.hackerrank.com/niveditabarn21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="45" width="45"/></a>
-     <a href = ""><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
-   <a href = ""><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
-</p>
-
-## Views and Followers
-<a href="https://github.com/Nivedita021/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Nivedita021">
-</a>
-<a href="https://github.com/Nivedita021?tab=followers"><img src="https://img.shields.io/github/followers/Nivedita021?label=Followers&style=social" alt="GitHub Badge"></a>
-<div>
-<a href="#"><img width="auto" src="https://c.tenor.com/6CE7evf2_7UAAAAi/milk-and-mocha-music.gif" height="auto"/></a></div>
