@@ -14,7 +14,6 @@
 
 -  I am enthusiastic about web development and I have created full stack MERN websites. 
 
-- My Email-ID : **niveditabarn21@gmail.com**
 
 ## Connect with me:
 <p align="left">
