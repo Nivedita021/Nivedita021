@@ -10,7 +10,7 @@
 
 ##  About Me
 
--  I have solved 1000+ questions based on Data Structures and Algorithms in various platforms like Leetcode, GeeksforGeeks, Codeforces, Codechef, HackerRank, etc.**
+-  I have solved 1000+ questions based on Data Structures and Algorithms in various platforms like Leetcode, GeeksforGeeks, Codeforces, Codechef, HackerRank, etc.
 
 -  I am enthusiastic about web development and I have created full stack MERN websites. 
 
