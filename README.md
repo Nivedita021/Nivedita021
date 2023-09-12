@@ -5,7 +5,7 @@
 <a href="https://github.com/Nivedita021?tab=followers"><img src="https://img.shields.io/github/followers/Nivedita021?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h1 align="center">Hello Everyone</h1>
-<h3 align="center">I'm a 4th year B.Tech student, from NIT JAMSHEDPUR.</h3>
+<h3 align="center">I'm a final year B.Tech student, from NIT JAMSHEDPUR.</h3>
 
 
 ##  About Me
