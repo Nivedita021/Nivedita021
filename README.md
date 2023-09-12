@@ -5,12 +5,12 @@
 <a href="https://github.com/Nivedita021?tab=followers"><img src="https://img.shields.io/github/followers/Nivedita021?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h1 align="center">Hello Everyone</h1>
-<h3 align="center">I'm a 3rd year B.Tech student, from NIT JAMSHEDPUR.</h3>
+<h3 align="center">I'm a 4th year B.Tech student, from NIT JAMSHEDPUR.</h3>
 
 
 ##  About Me
 
--  I have solved 1000+ questions based on Data Structures and Algorithms in various platforms like Leetcode, GeeksforGeeks, Codeforces, Codechef, HackerRank, etc.
+-  I have solved 800+ questions based on Data Structures and Algorithms in various platforms like Leetcode, GeeksforGeeks, Codeforces, Codechef, HackerRank, etc.
 
 -  I am enthusiastic about web development and I have created full stack MERN websites. 
 
