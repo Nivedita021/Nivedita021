@@ -27,7 +27,7 @@
 <a href = "https://www.linkedin.com/in/nivedita-chatterjee-bb8027215"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://codeforces.com/profile/nivedita__021"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a>
     <a href = "https://www.codechef.com/users/nivedita_2101"><img src="https://img.icons8.com/fluency/48/undefined/codechef.png"/></a>
-    <a href = "https://www.hackerrank.com/niveditabarn21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="45" width="45"/></a>
+    <a href = "https://www.hackerrank.com/niveditabarn21"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="" height="45" width="45"/></a>
      <a href = "https://leetcode.com/nivedita_chatterjee_021/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
    <a href = "https://auth.geeksforgeeks.org/user/niveditabarn21"><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
 </p>
