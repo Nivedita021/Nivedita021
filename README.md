@@ -10,11 +10,15 @@
 
 ##  About Me
 
--  I have solved 1000+ questions based on Data Structures and Algorithms in various platforms like Leetcode, GeeksforGeeks, Codeforces, Codechef, HackerRank, etc.
+-  Currently 3 star at Codechef
 
--  I am currently a pupil at codeforces rated 1309, 3 star at Codechef, and 6 star in problem solving in HackerRank.
+-  Pupil at Codeforces rated 1309.
 
--  I am enthusiastic about web development and I have created full stack MERN websites. 
+-  6 star in problem Solving in hackerrank.
+
+- Solved 1000+ Coding Questions on several platforms like leetcode, geeksforgeeks, codeforces, codechef, HackerRank, etc.
+
+- I am also into web development, having made a few REACT and MERN stack projects in the learning process.    
 
 
 ## Connect with me:
