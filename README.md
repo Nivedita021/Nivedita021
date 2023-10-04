@@ -45,7 +45,9 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-553.png" alt="mongodb" width="48" height="48"/> </a>  
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+     <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.architect.io/wp-content/uploads/2023/02/terraform-logo-on-black-square-600x600.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://www.splunk.com/en_us/about-splunk/acquisitions/signalfx.html" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8184587?s=200&v=4"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
