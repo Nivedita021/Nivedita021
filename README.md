@@ -1,4 +1,4 @@
-## Hi , Everyone !
+
 
 <h1 align="center">Hello Everyone</h1>
 <h3 align="center">I'm a final year B.Tech student, from NIT JAMSHEDPUR.</h3>
