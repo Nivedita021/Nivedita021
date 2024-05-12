@@ -10,11 +10,13 @@
 
 -  Pupil at Codeforces rated 1309.
 
--  6 star in problem Solving in hackerrank.
+-  6 star in problem Solving in Hackerrank.
 
 - Solved 1000+ Coding Questions on several platforms like leetcode, geeksforgeeks, codeforces, codechef, HackerRank, etc.
 
-- I am also into web development, having made a few REACT and MERN stack projects in the learning process.    
+- I am also into web development, having made a few REACT and MERN stack projects in the learning process.
+
+- Previously, I was a SWE - Intern at Atlassian. Currently, I am a Front-end engineer Intern at Amazon.
 
 
 ## Connect with me:
