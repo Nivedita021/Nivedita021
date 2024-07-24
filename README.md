@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello Everyone</h1>
-<h3 align="center">I'm a final year B.Tech student, from NIT JAMSHEDPUR.</h3>
+<h3 align="center">I'm a B.Tech Graduate from NIT JAMSHEDPUR (ECE Honors).</h3>
 
 
 ##  About Me
@@ -16,7 +16,7 @@
 
 - I am also into web development, having made a few REACT and MERN stack projects in the learning process.
 
-- Previously, I was a SWE - Intern at Atlassian. Currently, I am a Front-end engineer Intern at Amazon.
+- Previously, I was a SWE - Intern at Atlassian. Recently, I completed a 6 month Internship at Amazon as a Front-end engineer Intern.
 
 
 ## Connect with me:
