@@ -16,7 +16,9 @@
 
 - I am also into web development, having made a few REACT and MERN stack projects in the learning process.
 
-- Previously, I was a SWE - Intern at Atlassian. Recently, I completed a 6 month Internship at Amazon as a Front-end engineer Intern.
+- Currently, I am an SDE - 1 at Amazon with full-stack development experience.
+
+- Previously, I was a FEE - Intern at Amazon and a SWE intern at Atlassian.
 
 
 ## Connect with me:
